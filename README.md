@@ -1,6 +1,12 @@
 # 💫 About Me:
 🔭 I am currently studying in the 1st year at the Dnipro Polytechnic Vocational College<br>👯 I’m 16 y.o now<br>🤝 I will be very grateful for advice<br>🌱 I’m currently learning **Frontend Development**<br>💬 Ask me about **HTML, CSS and JavaScript**<br>⚡ Fun fact: I really enjoy coding
 
+## 🎨 Interests
+
+- Blockbench modeler
+- Minecraft bulder
+- Athlete
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AchekcSs_) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AchekcSs_) 
