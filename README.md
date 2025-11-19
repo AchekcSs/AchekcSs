@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏦 I am currently studying in the 3rd year at the Dnipro Polytechnic Vocational College<br>🌱 I’m 17 y.o now<br>🤝 I will be very grateful for advice<br>🧗‍♀️ I’m currently learning **Frontend Development**<br>💬 Ask me about **HTML, CSS and JavaScript**<br>⚡ Fun fact: coding almost every day
+🏦 I am currently studying in the 3rd year at the Dnipro Polytechnic Vocational College<br>🌱 I’m 17 y.o now<br>🤝 I will be very grateful for advice<br>🧗‍♀️ I’m currently learning **Frontend Development**<br>💬 Ask me about **HTML, CSS and JavaScript**
 
 ## 🎨 Interests
 
